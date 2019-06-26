@@ -1,0 +1,7 @@
+---
+version: "3.3"
+services:
+  ft:
+    image: python:3-alpine
+    container_name: fasttext
+    restart: always
