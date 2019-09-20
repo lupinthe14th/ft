@@ -1,5 +1,13 @@
 # ft
 
+[![Travis](https://img.shields.io/travis/lupinthe14th/ft.svg?style=flat-square)][travis]
+[![Mergify Status][mergify-status]][mergify]
+
+<!-- links -->
+[travis]: https://travis-ci.org/lupinthe14thft/
+[mergify]: https://mergify.io
+[mergify-status]: https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/lupinthe14th/ft&style=flat
+
 ## SeeAlso
 
 - [fastTextでesaに書かれた文章を分類する](https://qiita.com/masuidrive/items/c6d45d264c7d7bdff6ac)
